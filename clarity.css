@@ -1,0 +1,55 @@
+
+/* Main page feed */
+#feed-main-what_to_watch {
+
+  display: none;
+
+}
+
+/* Feed/trending/subscriptions toggle */
+#masthead-appbar {
+
+  display: none;
+
+}
+
+#watch7-sidebar {
+
+  display: none;
+
+}
+
+/* Comment section width */ 
+#watch7-content {
+
+  width: 100%;
+
+}
+
+/* Player width */
+#player-api {
+
+  width: 100%;
+
+}
+
+.player-width{
+
+  width: 100%;
+
+}
+
+.html5-main-video {
+
+  width: 100% !important;
+
+}
+
+.ytp-chrome-bottom {
+
+  width: calc(100% - 24px) !important;
+
+  left:12px !important;
+
+}
+
